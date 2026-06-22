@@ -68,7 +68,7 @@ if st.button("Consult CareMind AI"):
             
             col1, col2 = st.columns(2)
             with col1:
-                st.markdown("**Dr. Vasupalli Leela Prasad** *Psychologist (Adolescent Specialist)* Status: 🟢 Online")
+                st.markdown("**Dr. R.RevathiPathi** *Psychologist (Adolescent Specialist)* Status: 🟢 Online")
                 st.button("Request Mock Call", key="dr1")
             with col2:
                 st.markdown("**Dr.Ramisetti Rohith** *Clinical Counselor (Family Therapist)* Status: 🟢 Online")
